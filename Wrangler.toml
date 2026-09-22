@@ -1,0 +1,6 @@
+# ...
+[vars]
+admin = "phylawn"
+GUEST = "public/"
+PUBURL = "ppan.nel.dpdns.org"
+# ...
